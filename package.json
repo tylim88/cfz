@@ -1,7 +1,7 @@
 {
 	"name": "cfz",
-	"version": "1.0.6",
-	"description": "🦋 Function Composer with deep typing.",
+	"version": "0.0.0",
+	"description": "",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"scripts": {
